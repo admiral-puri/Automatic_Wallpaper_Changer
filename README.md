@@ -6,6 +6,7 @@ This program updates wallpaper on given preferences(i.e genre) every half an hou
 * Unsplash API
 ## USAGE:
 * Clone this  repository
+`git clone https://github.com/admiral-puri/Automatic_Wallpaper_Changer`
 * Open the terminal and move into the downloaded repository
 * Run Bash Script:<br/>
  `$ sh install.sh`
